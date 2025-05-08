@@ -29,6 +29,8 @@ $RECYCLE.BIN/
 /debug/
 /release/
 
+build.sh
+
 # CMake (if used)
 CMakeLists.txt.user
 CMakeCache.txt
