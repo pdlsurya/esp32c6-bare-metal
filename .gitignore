@@ -1,3 +1,35 @@
+# OS-specific files
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Linux
+*~
+
+# IDEs and editors
+.vscode/
+*.swp
+*.swo
+*.bak
+*.tmp
+
+
+# Build system directories
+/build/
+/bin/
+/obj/
+/debug/
+/release/
+
+# CMake (if used)
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
