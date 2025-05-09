@@ -1,0 +1,29 @@
+CMakeFiles/app.elf.dir/Users/pdlsurya/Documents/EmbeddedProjects/esp32c6-bare-metal-sdk/components/interrupts/interrupt_plic.c.obj: \
+ /Users/pdlsurya/Documents/EmbeddedProjects/esp32c6-bare-metal-sdk/components/interrupts/interrupt_plic.c \
+ /Users/pdlsurya/riscv32-esp-elf/lib/gcc/riscv32-esp-elf/14.2.0/include/stdbool.h \
+ /Users/pdlsurya/Documents/EmbeddedProjects/esp32c6-bare-metal-sdk/components/interrupts/interrupt_plic.h \
+ /Users/pdlsurya/riscv32-esp-elf/lib/gcc/riscv32-esp-elf/14.2.0/include/stdint.h \
+ /Users/pdlsurya/riscv32-esp-elf/riscv32-esp-elf/include/stdint.h \
+ /Users/pdlsurya/riscv32-esp-elf/riscv32-esp-elf/include/machine/_default_types.h \
+ /Users/pdlsurya/riscv32-esp-elf/riscv32-esp-elf/include/sys/features.h \
+ /Users/pdlsurya/riscv32-esp-elf/riscv32-esp-elf/include/_newlib_version.h \
+ /Users/pdlsurya/riscv32-esp-elf/riscv32-esp-elf/include/sys/_intsup.h \
+ /Users/pdlsurya/riscv32-esp-elf/riscv32-esp-elf/include/sys/_stdint.h \
+ /Users/pdlsurya/riscv32-esp-elf/riscv32-esp-elf/include/assert.h \
+ /Users/pdlsurya/riscv32-esp-elf/riscv32-esp-elf/include/_ansi.h \
+ /Users/pdlsurya/riscv32-esp-elf/riscv32-esp-elf/include/newlib.h \
+ /Users/pdlsurya/riscv32-esp-elf/riscv32-esp-elf/include/sys/config.h \
+ /Users/pdlsurya/riscv32-esp-elf/riscv32-esp-elf/include/machine/ieeefp.h \
+ /Users/pdlsurya/Documents/EmbeddedProjects/esp32c6-bare-metal-sdk/components/esp_common/include/esp_attr.h \
+ /Users/pdlsurya/Documents/EmbeddedProjects/esp32c6-bare-metal-sdk/sdk-config/sdkconfig.h \
+ /Users/pdlsurya/Documents/EmbeddedProjects/esp32c6-bare-metal-sdk/components/soc/esp32c6/include/soc/interrupt_reg.h \
+ /Users/pdlsurya/Documents/EmbeddedProjects/esp32c6-bare-metal-sdk/components/soc/esp32c6/include/soc/interrupt_matrix_reg.h \
+ /Users/pdlsurya/Documents/EmbeddedProjects/esp32c6-bare-metal-sdk/components/soc/esp32c6/include/soc/soc.h \
+ /Users/pdlsurya/Documents/EmbeddedProjects/esp32c6-bare-metal-sdk/components/esp_common/include/esp_assert.h \
+ /Users/pdlsurya/Documents/EmbeddedProjects/esp32c6-bare-metal-sdk/components/esp_common/include/esp_bit_defs.h \
+ /Users/pdlsurya/Documents/EmbeddedProjects/esp32c6-bare-metal-sdk/components/soc/esp32c6/include/soc/reg_base.h \
+ /Users/pdlsurya/Documents/EmbeddedProjects/esp32c6-bare-metal-sdk/components/soc/esp32c6/include/soc/intpri_reg.h \
+ /Users/pdlsurya/Documents/EmbeddedProjects/esp32c6-bare-metal-sdk/components/soc/esp32c6/include/soc/plic_reg.h \
+ /Users/pdlsurya/Documents/EmbeddedProjects/esp32c6-bare-metal-sdk/components/soc/esp32c6/include/soc/soc_caps.h \
+ /Users/pdlsurya/Documents/EmbeddedProjects/esp32c6-bare-metal-sdk/components/hal/include/hal/interrupt_plic_ll.h \
+ /Users/pdlsurya/Documents/EmbeddedProjects/esp32c6-bare-metal-sdk/components/soc/esp32c6/include/soc/reg_base.h
