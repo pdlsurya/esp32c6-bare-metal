@@ -1,5 +1,8 @@
 set(CMAKE_SYSTEM_NAME Generic)
 
+set(CMAKE_C_STANDARD 11)
+set(CMAKE_CXX_STANDARD 17)
+
 # Specify the cross-compiler
 set(CMAKE_C_COMPILER riscv32-esp-elf-gcc)
 set(CMAKE_CXX_COMPILER riscv32-esp-elf-g++)
