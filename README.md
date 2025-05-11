@@ -8,7 +8,7 @@ A minimal bare-metal SDK for the ESP32-C6 RISC-V microcontroller, developed with
 - Uses direct boot mode(No second stage bootloader required)
 - Direct register-level programming
 - Custom linker scripts and startup code
-- Example applications (e.g., Blinky)
+- Example applications (e.g., Blinky with ws2812 rgb led)
 - Compatible with CMake and Ninja build systems
 
 ## Prerequisites
