@@ -31,9 +31,6 @@ $RECYCLE.BIN/
 /debug/
 /release/
 
-#any example build files
-examples/
-
 # CMake (if used)
 CMakeLists.txt.user
 CMakeCache.txt
